@@ -275,12 +275,22 @@ AI Music Video APIs are transforming how creators and businesses produce visual 
 
 As AI continues to evolve, music-to-video generation will become a core component of the digital content ecosystem, empowering creators to bring their ideas to life faster than ever before.
 
-## Apply for Noisee AI API Access
 
-Ready to integrate AI Music Video generation into your platform?
 
-Apply for API access today:
+### Experience the Product
+
+Explore the platform and create your first AI-generated music video:
 
 https://noisee.com.cn/#/?i=8NCBS8
 
-Start building the future of AI-powered music visualization.
+### Apply for API Access
+
+Interested in integrating AI Music Video generation into your application or workflow?
+
+Apply for API access here:
+
+https://dzwlai.com/linlongai/#/?i=8NCBS8_WXFF
+
+Start building the future of AI-powered music visualization with Noisee AI.
+
+
